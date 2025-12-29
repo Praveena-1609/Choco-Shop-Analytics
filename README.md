@@ -1,5 +1,6 @@
 Sales Analysis Dashboard
 
+Power BI Report link - https://app.powerbi.com/links/QgUkQe2nWK?ctid=d0462566-956e-4509-8851-032a8ad62e7b&pbi_source=linkShare&bookmarkGuid=6c05d6e7-a53a-4b0a-9fcf-5c1aa385d5b3
 Overview
 
 This dashboard provides a complete overview of business performance across Sales, Boxes, Shipments, Costs, and Profit. It helps decision-makers track KPIs, analyze trends, compare regions, and evaluate salesperson performance in a single view.
