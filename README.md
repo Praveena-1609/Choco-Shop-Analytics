@@ -5,7 +5,10 @@ Power BI Report link - https://app.powerbi.com/links/QgUkQe2nWK?ctid=d0462566-95
 
 Overview
 
-This dashboard provides a complete overview of business performance across Sales, Boxes, Shipments, Costs, and Profit. It helps decision-makers track KPIs, analyze trends, compare regions, and evaluate salesperson performance in a single view.
+This dashboard provides a complete overview of business performance across Sales, Boxes, Shipments, Costs, and Profit. It helps decision-makers track KPIs, analyze trends, compare regions, and evaluate
+salesperson performance in a single view.
+
+<img width="1310" height="712" alt="image" src="https://github.com/user-attachments/assets/8ee5bbf6-8879-4d05-bb5b-e2032d2ce982" />
 
 Key Objectives
 
