@@ -14,12 +14,17 @@ Key Objectives
 
 Main KPI Cards
 
-Total Sales	Total revenue generated
-Total Boxes	Total units shipped
-Total Shipments	Total count of shipments delivered
-Total Costs	Overall cost of operations
-Total Profit	Net profit after cost deductions
-Profit % Gauge	Visual indicator of profitability performance
+Total Sales	- Total revenue generated
+
+Total Boxes -	Total units shipped 
+
+Total Shipments	- Total count of shipments delivered
+
+Total Costs	- Overall cost of operations
+
+Total Profit -	Net profit after cost deductions
+
+Profit % Gauge -	Visual indicator of profitability performance
 
 Dashboard Sections
 
