@@ -48,14 +48,21 @@ Helps identify seasonal changes and cost efficiency patterns
 Bar Chart: Shipment quantity distribution
 Includes a mini-gauge showing shipment performance %
 
+
 Interactive Design
 
 Slicers: Region & Category filters
+
 Tooltips: Hover to get detailed insights
+
 Dynamic Highlighting: Charts interact based on selections
 
+
 Tools & Technologies
+
 Power Query - Data Cleaning
+
 DAX Measures- KPI calculations
+
 Power BI Desktop -	Report development
 
