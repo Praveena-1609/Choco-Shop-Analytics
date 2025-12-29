@@ -13,7 +13,7 @@ Key Objectives
 ✔ Support data-driven decision-making for improvements
 
 Main KPI Cards
-Metric	Description
+
 Total Sales	Total revenue generated
 Total Boxes	Total units shipped
 Total Shipments	Total count of shipments delivered
@@ -22,6 +22,7 @@ Total Profit	Net profit after cost deductions
 Profit % Gauge	Visual indicator of profitability performance
 
 Dashboard Sections
+
 1️⃣ Navigation Panel (Left Side)
 
 Category Filters: Bars, Bites, Other
