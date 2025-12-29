@@ -1,6 +1,6 @@
 Sales Analysis Dashboard
 
-Power BI Report link - [Click here](https://app.powerbi.com/links/ezNg41GQqa?ctid=d0462566-956e-4509-8851-032a8ad62e7b&pbi_source=linkShare)
+Power BI Report link - [Click here](https://app.powerbi.com/links/QgUkQe2nWK?ctid=d0462566-956e-4509-8851-032a8ad62e7b&pbi_source=linkShare&bookmarkGuid=01f17907-2c19-4c1e-bdc3-012ea56b75ea)
 
 
 Overview
